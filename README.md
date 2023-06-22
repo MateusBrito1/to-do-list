@@ -1,2 +1,2 @@
 # to-do-list
- Projeto de To do list.
+Praticando Javascript com To do List.
