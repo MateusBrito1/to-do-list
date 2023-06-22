@@ -1,2 +1,3 @@
 # to-do-list
- Projeto de To do list.
+ Projeto To do list.
+ Praticando JavaScript.
