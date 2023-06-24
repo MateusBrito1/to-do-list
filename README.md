@@ -1,5 +1,6 @@
 # to-do-list
-<h1>https://mateusbrito-to-dolist.netlify.app/</h1>
+<p>https://mateusbrito-to-dolist.netlify.app/</p>
+<p>Praticando JS.</p>
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
